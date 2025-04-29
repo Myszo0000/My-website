@@ -1,0 +1,23 @@
+.tytul {
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+}
+
+.znaczenie_1 {
+    font-family: arial;
+    text-align: left;
+    margin-left: 5px;
+}
+
+body {
+    font-family: arial;
+}
+
+.indeks01 {
+    text-align: right;
+}
+h6 {
+    font-size: 6,5pt;
+    font-family: arial;
+}
